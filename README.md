@@ -38,15 +38,5 @@ python calculator.py
 The GitHublink:https://github.com/Marci-design/intro-to--python.git
 
 
-
-
-
-
-
-
-
-
-
-
 Enter operation (+, -, *, /): *
 10.0 * 5.0 = 50.0
